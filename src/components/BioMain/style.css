@@ -1,0 +1,7 @@
+.container {
+    max-width: 90vw - 100px;
+    position: absolute;
+    left: 5%;
+    top: 115%;
+    flex-direction: row;
+}

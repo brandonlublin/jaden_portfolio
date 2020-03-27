@@ -1,0 +1,21 @@
+.pinkBox {
+    position: absolute;
+    width: 100vw;
+    height: 330px;
+    left: 0px;
+    top: 180px;
+    /* max-width: 1440px; */
+    max-height: 330px;
+    background: #D0A793;
+    margin: auto;
+}
+#homeImage {
+    position: absolute;
+    width: 1500px;
+    height: 571px;
+    left: 170px;
+    top: 201px;
+    margin-top: 20px;
+    background: url('../../images/jaden.png');
+    background-size: 1500px 571px;
+}
