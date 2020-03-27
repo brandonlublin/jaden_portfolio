@@ -6,10 +6,21 @@ body {
     position: absolute;
     left: 0%;
     right: 0%;
-    top: 5%;
+    top: 3%;
     bottom: 0%;
     max-height: 140px;
     background: #FFFFFF;
+}
+.nameHeader {
+    font-family: Amiri;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 88px;  
+    color: #7F7D7E;
+    width: 385px;
+    height: 56px;
+    padding-bottom: 20px;
+    margin-left: 5%;
 }
 .row {
     max-width: 1400px;
@@ -21,7 +32,7 @@ body {
 .col {
     max-height: 160px;
 }
-.hr {
+hr {
     position: absolute;
     left: 34.29%;
     right: 34.9%;
@@ -33,7 +44,6 @@ body {
     left: 71.93%;
     right: 18.96%;
     top: 25.5%;
-
     font-family: Arsenal;
     font-style: normal;
     font-weight: normal;
@@ -41,16 +51,14 @@ body {
     line-height: 30px;
     text-align: center;
     letter-spacing: 0.1em;
-
     color: #7F7D7E;
 }
 
 .navLink2 {
     position: absolute;
     left: 77.93%;
-    right: 1%;
+    right: 5%;
     top: 25.5%;
-
     font-family: Arsenal;
     font-style: normal;
     font-weight: normal;

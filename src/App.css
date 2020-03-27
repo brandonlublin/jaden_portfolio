@@ -12,16 +12,9 @@
         animation: App-logo-spin infinite 20s linear;
     }
 }
-.nameHeader {
-  font-family: Amiri;
-  font-weight: normal;
-  font-size: 50px;
-  line-height: 88px;  
-  color: #7F7D7E;
-  width: 385px;
-  height: 56px;
-  padding-bottom: 20px;
-  margin-left: 4%;
+.container {
+    flex-direction: row;
+    padding-bottom: 2.5rem; 
 }
 .App-header {
     background-color: #282c34;

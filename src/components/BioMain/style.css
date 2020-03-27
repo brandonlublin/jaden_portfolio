@@ -1,7 +1,38 @@
-.container {
+.row {
+    font-family: 'Arsenal', sans-serif;
+}
+#introName {
+    font-family: Arsenal;
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 63px;
+    letter-spacing: 0.1em;
+    /* Pewter */
+    color: #7F7D7E;
     max-width: 90vw - 100px;
     position: absolute;
-    left: 5%;
-    top: 115%;
-    flex-direction: row;
+    left: 7%;
+    top: 85%;
+}
+.openText {
+    font-family: Amiri;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    line-height: 138.9%;
+    max-width: 75vw;
+    padding-top: 30px;
+    /* or 35px */
+    position: absolute;
+    left: 7%;
+    top: 95%;
+    /* Pewter */
+    text-align: left;
+    color: #7F7D7E;
+    margin-bottom: 150px;
+}
+hr {
+    position: absolute;
+    border: 2px solid grey;
 }

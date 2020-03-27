@@ -1,0 +1,19 @@
+#myWork {
+    position: absolute;
+    top: 130%;
+    left: 7%;
+    font-family: Arsenal;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    /* Pewter */
+
+    color: #7F7D7E;
+}
+hr {
+    border: 6px solid grey;
+    margin: 0;
+}
