@@ -14,7 +14,6 @@ class BioMain extends Component {
             <div className='container'>
                 <div className='row'>
                     <h2 id='introName'>Hi, I'm Jaden</h2>
-                    <hr/>
                 </div>
                 <div className='row'>
                     <p class='openText'>I am a Seattle based Product Designer that enjoys solving the tough problems for users.

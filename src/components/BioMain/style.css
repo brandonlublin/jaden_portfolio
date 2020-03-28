@@ -1,6 +1,11 @@
 .row {
     font-family: 'Arsenal', sans-serif;
 }
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 #introName {
     font-family: Arsenal;
     text-transform: uppercase;
@@ -13,7 +18,7 @@
     max-width: 90vw - 100px;
     position: absolute;
     left: 7%;
-    top: 85%;
+    top: 90%;
 }
 .openText {
     font-family: Amiri;
@@ -26,7 +31,7 @@
     /* or 35px */
     position: absolute;
     left: 7%;
-    top: 95%;
+    top: 100%;
     /* Pewter */
     text-align: left;
     color: #7F7D7E;

@@ -9,6 +9,7 @@
     line-height: 45px;
     letter-spacing: 0.1em;
     text-transform: uppercase;
+    margin-bottom: 250px;
     /* Pewter */
 
     color: #7F7D7E;
@@ -16,4 +17,21 @@
 hr {
     border: 6px solid grey;
     margin: 0;
+}
+.container {
+    display: flex;
+}
+.workPic {
+    position: absolute;
+    top: 140%;
+    height: 500px;
+    width: 500px;
+    background-image: url('../../images/placeholder.jpg');
+    background-size: 500px 500px;
+    margin-left: 150px;
+    flex-direction: row;
+    flex-grow: 2;
+}
+.row {
+    margin-bottom: 150px;
 }
